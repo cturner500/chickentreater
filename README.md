@@ -12,4 +12,4 @@ https://www.amazon.com/gp/product/B01KZKOIZC/ref=ppx_yo_dt_b_search_asin_title?i
 4. Hanger wire
 5. 3d Printed auger wheel (see STL file)
 <br>
-<img src="img_4035.jpg">
+<img src="IMG_4035.jpg">
